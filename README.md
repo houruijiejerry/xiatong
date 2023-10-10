@@ -37,9 +37,9 @@ Contact lead author for Seurat object.
 3、[Tutorial for RStudio](https://resources.rstudio.com/) 
 
 ### scRNAseq analysis pipeline SEURAT developed by the Satija lab
-[Source code for Seurat](https://cran.r-project.org/web/packages/Seurat/index.html)
+1、[Source code for Seurat](https://cran.r-project.org/web/packages/Seurat/index.html)
 
-[Tutorials for Seurat](https://satijalab.org/seurat/)
+2、[Tutorials for Seurat](https://satijalab.org/seurat/)
 
 ## cell-cell communication
 ### Perform NicheNet analysis starting from a Seurat object: step-by-step analysis（https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_steps.md）
