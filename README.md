@@ -7,8 +7,8 @@
 		- [Single cell RNA sequencing datasets](###Single-cell-RNA-sequencing-datasets)
    		- [Bulk RNA sequencing datasets](####-Bulk-RNA-sequencing-datasets)
 - [Analysis and visualization programs](#analysis-and-visualization-programs)
-	- [R and R's integrated developmental environment RStudio:](#r-and-rs-integrated-developmental-environment-rstudio)
-	- [scRNAseq analysis pipeline SEURAT developed by the Satija lab:](#scrnaseq-analysis-pipeline-seurat-developed-by-the-satija-lab)
+	- [R and R's integrated developmental environment RStudio](#r-and-rs-integrated-developmental-environment-rstudio)
+	- [scRNAseq analysis pipeline SEURAT developed by the Satija lab](#scrnaseq-analysis-pipeline-seurat-developed-by-the-satija-lab)
 	- [cell–cell communication](##cell--cell-communication)
 		- [Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
   		- [CellChat](###CellChat)
@@ -38,6 +38,7 @@ Contact lead author for Seurat object.
 
 ### scRNAseq analysis pipeline SEURAT developed by the Satija lab
 [Source code for Seurat](https://cran.r-project.org/web/packages/Seurat/index.html)
+
 [Tutorials for Seurat](https://satijalab.org/seurat/)
 
 ## cell-cell communication
