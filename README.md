@@ -42,9 +42,10 @@ Contact lead author for Seurat object.
 2、[Tutorials for Seurat](https://satijalab.org/seurat/)
 
 ## cell-cell communication
-### Perform NicheNet analysis starting from a Seurat object: step-by-step analysis（https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_steps.md）
+### Perform NicheNet analysis starting from a Seurat object: step-by-step analysis
+(https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_steps.md)
 ### CellChat
-（https://github.com/sqjin/CellChat）
+(https://github.com/sqjin/CellChat)
 
 ## Lead Contacts
 Dr. Zhang,lanlan. Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University. Chengdu, China. E-mail: lanlanzhangsc@gmail.com
