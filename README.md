@@ -4,14 +4,14 @@
 - [What is this?](#what-is-this)
 - [How can I use this data, and where can I find it?](#how-can-i-use-this-data-and-where-can-i-find-it)
 	- [Downloading Data files](##downloading-data-files)
-		-[Single cell RNA sequencing datasets](###Single-cell-RNA-sequencing-datasets)
-   		-[Bulk RNA sequencing datasets](####-Bulk-RNA-sequencing-datasets)
+		- [Single cell RNA sequencing datasets](###Single-cell-RNA-sequencing-datasets)
+   		- [Bulk RNA sequencing datasets](####-Bulk-RNA-sequencing-datasets)
 - [Analysis and visualization programs](#analysis-and-visualization-programs)
 	- [R and R's integrated developmental environment RStudio:](#r-and-rs-integrated-developmental-environment-rstudio)
 	- [scRNAseq analysis pipeline SEURAT developed by the Satija lab:](#scrnaseq-analysis-pipeline-seurat-developed-by-the-satija-lab)
 - [cell–cell communication](##cell--cell-communication)
-	-[Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
-  	-[CellChat](###CellChat)
+	- [Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
+  	- [CellChat](###CellChat)
 - [Lead Contacts](##Lead-contacts)
 
 
