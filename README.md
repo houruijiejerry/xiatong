@@ -47,5 +47,5 @@ Contact lead author for Seurat object.
 ### CellChat
 (https://github.com/sqjin/CellChat)
 
-## Lead Contacts
+# Lead Contacts
 Dr. Zhang,lanlan. Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University. Chengdu, China. E-mail: lanlanzhangsc@gmail.com
