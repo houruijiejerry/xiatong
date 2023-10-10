@@ -10,7 +10,7 @@
 	- [R and R's integrated developmental environment RStudio:](#r-and-rs-integrated-developmental-environment-rstudio)
 	- [scRNAseq analysis pipeline SEURAT developed by the Satija lab:](#scrnaseq-analysis-pipeline-seurat-developed-by-the-satija-lab)
 - [cell–cell communication](##cell--cell-communication)
- 	-[Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
+	-[Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
   	-[CellChat](###CellChat)
 - [Lead Contacts](#Lead-contacts)
 
