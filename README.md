@@ -35,9 +35,10 @@ Contact lead author for Seurat object.
 ### R and R's integrated developmental environment RStudio:
 [R v4.2.2 (x64 bit)](https://cran.r-project.org/bin/windows/base/old/)
 RStudio build  (x64 bit)
-Tutorial for R
-Tutorial for RStudio
-（这个看看怎么改）
+[Tutorial for R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+[Tutorial for RStudio](https://resources.rstudio.com/) 
+
+
 ### scRNAseq analysis pipeline SEURAT developed by the Satija lab:
 [Source code for Seurat](https://cran.r-project.org/web/packages/Seurat/index.html)
 [Tutorials for Seurat](https://satijalab.org/seurat/)
