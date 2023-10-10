@@ -12,7 +12,7 @@
 - [cell–cell communication](##cell--cell-communication)
 	-[Perform NicheNet analysis starting from a Seurat object](###Perform-NicheNet-analysis-starting-from-a-Seurat-object)
   	-[CellChat](###CellChat)
-- [Lead Contacts](#Lead-contacts)
+- [Lead Contacts](##Lead-contacts)
 
 
 ## What is this?
@@ -36,7 +36,6 @@ Contact lead author for Seurat object.
 
 3、[Tutorial for RStudio](https://resources.rstudio.com/) 
 
-
 ### scRNAseq analysis pipeline SEURAT developed by the Satija lab
 [Source code for Seurat](https://cran.r-project.org/web/packages/Seurat/index.html)
 [Tutorials for Seurat](https://satijalab.org/seurat/)
@@ -45,5 +44,6 @@ Contact lead author for Seurat object.
 ### Perform NicheNet analysis starting from a Seurat object: step-by-step analysis（https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_steps.md）
 ### CellChat
 （https://github.com/sqjin/CellChat）
+
 ## Lead Contacts
 Dr. Zhang,lanlan. Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University. Chengdu, China. E-mail: lanlanzhangsc@gmail.com
